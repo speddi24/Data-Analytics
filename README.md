@@ -1,5 +1,5 @@
 # Diabetis-Dataset
-Diabetes Data_Final Report.ipynb :
+Diabetes Data.ipynb :
 
 This is my Jupyter Notebook file, my codebase.
 
